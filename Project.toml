@@ -1,0 +1,10 @@
+[deps]
+Catalyst = "479239e8-5488-4da2-87a7-35f2df7eef83"
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+MomentClosure = "01a1b25a-ecf0-48c5-ae58-55bfd5393600"
+StructuralIdentifiability = "220ca800-aa68-49bb-acd8-6037fa93a544"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
+[compat]
+julia = "1.11"
